@@ -1,0 +1,7 @@
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.deps.json
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfoInputs.cache
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfo.cs
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.pdb

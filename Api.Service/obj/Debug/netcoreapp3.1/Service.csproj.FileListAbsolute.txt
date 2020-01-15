@@ -1,0 +1,8 @@
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb

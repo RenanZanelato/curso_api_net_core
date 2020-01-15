@@ -1,0 +1,15 @@
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.CrossCutting.deps.json
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.CrossCutting.dll
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.CrossCutting.pdb
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Data.dll
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Service.dll
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Data.pdb
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Service.pdb
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csprojAssemblyReference.cache
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.AssemblyInfo.cs
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csproj.CopyComplete
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.dll
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.pdb

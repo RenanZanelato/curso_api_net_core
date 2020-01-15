@@ -1,0 +1,13 @@
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.deps.json
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.runtimeconfig.json
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.runtimeconfig.dev.json
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.dll
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.pdb
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csprojAssemblyReference.cache
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.AssemblyInfoInputs.cache
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.AssemblyInfo.cs
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.CopyComplete
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.dll
+C:\Users\renan.zanelato\Documents\projetos\curso_api_net_core\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.pdb
