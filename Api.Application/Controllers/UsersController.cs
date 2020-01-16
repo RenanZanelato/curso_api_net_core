@@ -1,5 +1,6 @@
 ﻿using Api.Domain.Entities;
 using Api.Domain.Interfaces.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Net;
@@ -8,6 +9,7 @@ using System.Threading.Tasks;
 namespace Api.Application.Controllers
 {
     [Route("v1/[controller]")]
+    [Authorize("Bearer")]
     [ApiController]
     public class UsersController : ControllerBase
     {
@@ -84,7 +86,7 @@ namespace Api.Application.Controllers
                 user.Id = id;
                 var result = await _service.Put(user);
 
-                if (result == null)
+                if (result == null) 
                 {
                     return BadRequest();
                 }
